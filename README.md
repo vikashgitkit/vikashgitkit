@@ -1,8 +1,7 @@
 ### Hi Developers 👋
 <a href="https://vikashgitkit.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-ItsManoharMeena-red)](https://www.youtube.com/@manoharmeena3346/videos)
-[![Linkedin Badge](https://img.shields.io/badge/-Manohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manohar-meena-1a132221b)](https://www.linkedin.com/in/manohar-meena-1a132221b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vikash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikash-sharma-742b0a140/)](https://www.linkedin.com/in/manohar-meena-1a132221b/)
 
 
 

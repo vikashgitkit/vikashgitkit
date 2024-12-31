@@ -21,10 +21,10 @@ I am a Blockchain Developer with experience in:
 </div>
 
 ### 🔧 Languages & Tools
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F6C915?style=for-the-badge&logo=hardhat&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-4E5D94?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-E5C07B?style=for-the-badge&logo=hardhat&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -36,7 +36,7 @@ I am a Blockchain Developer with experience in:
 <table>
   <tr>
     <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vikashgitkit&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgitkit&layout=compact&theme=vue" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgitkit&layout=compact&langs_count=8&theme=vue&hide_border=true" alt="vikashgitkit" /></td>
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgitkit&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" alt="vikashgitkit" /></td>
   </tr>
 </table>

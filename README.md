@@ -1,6 +1,10 @@
-# 💻 Vikash Sharma - Blockchain Developer 
+### Hi Developers 👋
+<a href="https://vikashgitkit.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+Vikash+Sharma's+GitHub+Portfolio)
+[![Linkedin Badge](https://img.shields.io/badge/-Vikash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikash-sharma-742b0a140/)](https://www.linkedin.com/in/vikash-sharma-742b0a140/)
+
+
+
 
 ### 👨‍💻 About Me
 I am a Blockchain Developer with experience in:
@@ -10,12 +14,15 @@ I am a Blockchain Developer with experience in:
 - **Databases**: MongoDB, PostgreSQL
 - Passionate about building decentralized applications and innovating in Web3.
 
----
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikashsharma&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Count](https://profile-counter.glitch.me/vikashgitkit/count.svg)
 
----
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vikashgitkit&column=7"/>
+  </a>
+</div>
 
 ### 🔧 Languages & Tools
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -29,29 +36,29 @@ I am a Blockchain Developer with experience in:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashsharma&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsharma&layout=compact&theme=radical)
 
----
-
-### 🌟 Popular Repositories
-<a href="https://github.com/vikashsharma/some-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma&repo=some-repo&theme=radical" />
-</a>
-<a href="https://github.com/vikashsharma/another-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma&repo=another-repo&theme=radical" />
-</a>
-
----
-
-### 📈 Contribution Activity
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vikashsharma&theme=react-dark)
-
----
-
-### 📫 How to Reach Me
-- **LinkedIn**: [Vikash Sharma](https://www.linkedin.com/in/vikashsharma)
-- **Email**: vikashsharma@example.com
+<!-- <img  id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgitkit&lans-count=4" alt="">
+<img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=vikashgitkit&show_icons=true&locale=en" alt="">
+<img  id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=vikashgitkit&" alt="">
+ -->
+<table>
+  <tr>
+    <td valign="top"><img align="center" src="https://github-readme-stats-oup691hc2-alexfp05405.vercel.app/api?username=vikashgitkit&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" /></td>
+     <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashgitkit&lans-count=4" alt="vikashgitkit" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashgitkit&show_icons=true&locale=en&theme=vue&count_private=true&hide_border=true" alt="vikashgitkit" /></td>
+    
+  </tr>
+</table>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikashgitkit&theme=vue" width="150%" />
+<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikashgitkit&theme=vue&bg_color=ffffff&color=586E75&line=40C463&point=586E75&hide_border=false&area=true&title_color=586E75&custom_title=vikashgitkit%20's%20contribution%20Graph" /> -->
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: .....
+-->
